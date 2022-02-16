@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e536c7d1-9a16-2d4c-4b3c-11324623c983
 ---
@@ -36,20 +38,6 @@ Curriculum Information
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom with three rows of tables and chairs facing three chalkboards.]({{< resource_file da1b2237-a57f-b193-b90a-24696f266a77 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course was taught in a large classroom equipped with a chalkboard and a projector, with a seating capacity of 36.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

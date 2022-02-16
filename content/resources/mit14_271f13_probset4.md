@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource file contains information regarding problem set 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-271-industrial-organization-i-fall-2013/c6c01c8f531da35ff8aa58b8d0411eed_MIT14_271F13_probset4.pdf
+file: /media/courses/14-271-industrial-organization-i-fall-2013/c6c01c8f531da35ff8aa58b8d0411eed_MIT14_271F13_probset4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '14.271F13 Industrial Organization I: Problem Set 4'
 uid: c6c01c8f-531d-a35f-f8aa-58b8d0411eed

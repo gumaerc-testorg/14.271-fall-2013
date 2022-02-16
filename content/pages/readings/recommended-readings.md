@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 512d868f-8838-b9fd-abcd-fe90b9226d59
 title: Recommended Readings
 uid: 37928f21-ba22-ee7f-ad61-5a98055271c3
