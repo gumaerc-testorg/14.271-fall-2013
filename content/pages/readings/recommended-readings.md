@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides a list of recommended readings for each week of
+  the course. '
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -9,40 +12,25 @@ parent_uid: 512d868f-8838-b9fd-abcd-fe90b9226d59
 title: Recommended Readings
 uid: 37928f21-ba22-ee7f-ad61-5a98055271c3
 ---
-
 Besides the required readings, there are also additional readings recommended for each topic. These are listed in the table below.
 
 There are no recommended readings for Week 8.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Monopoly Pricing and Durable Goods
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Spence, A. Michael. "[Monopoly, Quality, and Regulation](http://ideas.repec.org/a/rje/bellje/v6y1975iautumnp417-429.html)." _Bell Journal of Economics_ 6, no. 2 (1975): 417–29.
 
-Bergemann, Dirk, and Juuso Välimäki. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Dynamic Pricing of New Experience Goods." (PDF)](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/3/352/files/2011/01/Paper18_p1175.pdf) _Journal of Political Economy_ 114, no. 4 (2006): 713–43.
+Bergemann, Dirk, and Juuso Välimäki. ["Dynamic Pricing of New Experience Goods." (PDF)](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/3/352/files/2011/01/Paper18_p1175.pdf) _Journal of Political Economy_ 114, no. 4 (2006): 713–43.
 
 Gul, Faruk, Hugo F. Sonnenschein, et al. "[Foundations of Dynamic Monopoly and the Coase Conjecture](http://dx.doi.org/10.1016/0022-0531(86)90024-4)." _Journal of Economic Theory_ 39, no. 1 (1986): 155–90.
 
@@ -56,19 +44,11 @@ Chevalier, Judith A., Anil K. Kashyap, et al. "[Why Don't Prices Rise During Per
 
 Gentzkow, Matthew, and Jesse M. Shapiro. "[What Drives Media Slant? Evidence from U.S. Daily Newspapers](http://dx.doi.org/10.3982/ECTA7195)." _Econometrica_ 78, no. 1 (2010): 35–71.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Price Discrimination
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Deneckere, Raymond J., and R. Preston McAfee. "[Damaged Goods](http://dx.doi.org/10.1111/j.1430-9134.1996.00149.x)." _Journal of Economics & Management Strategy_ 5, no. 2 (1996): 149–74.
 
@@ -102,19 +82,11 @@ Morton, Fiona Scott, Florian Zettelmeyer, et al. "[Consumer Information and Disc
 
 Chu, Chenguan Sean, Phillip Leslie, et al. "[Bundle-Size Pricing as an Approximation to Mixed Bundling](http://dx.doi.org/10.1257/aer.101.1.263)." _American Economic Review_ 101, no. 1 (2011): 263–303.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Static Competition and Models of Differentiation
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Fisher, Franklin M. "[Games Economists Play: A Noncooperative View](http://www.jstor.org/discover/10.2307/2555655?uid=3739696&uid=2134&uid=2&uid=70&uid=4&uid=3739256&sid=21104049564663)." _RAND Journal of Economics_ 20, no. 1 (1989): 113–24.
 
@@ -140,19 +112,11 @@ Fudenberg, Drew, and Jean Tirole. "[Customer Poaching and Brand Switching](http:
 
 Armstrong, Mark, and John Vickers. "[Competitive Nonlinear Pricing and Bundling](http://dx.doi.org/10.1111/j.1467-937X.2009.00562.x)." _Review of Economic Studies_ 77, no. 1 (2010): 30–60.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Dynamic Competition
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Rotemberg, Julio J., and Garth Saloner. "[A Supergame-Theoretic Model of Price Wars during Booms](http://econpapers.repec.org/article/aeaaecrev/v_3a76_3ay_3a1986_3ai_3a3_3ap_3a390-407.htm)." _American Economic Review_ 76, no. 3 (1986): 390–407.
 
@@ -170,21 +134,13 @@ Genesove, David, and Wallace P. Mullin. "Rules, Communication, and Collusion: Na
 
 Wang, Zhongmin. "[(Mixed) Strategy in Oligopoly Pricing: Evidence from Gasoline Price Cycles Before and Under a Timing Regulation](http://dx.doi.org/10.1086/649801)." _Journal of Political Economy_ 117, no. 6 (2009): 987–1030.
 
-Rey, Patrick, and Jean Tirole. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Cooperation vs. Collusion: How Essentiality Shapes Co-opetition." (PDF)](http://www.tse-fr.eu/images/doc/wp/fit/wp_tse_439.pdf) Working Papers, 2013.
+Rey, Patrick, and Jean Tirole. ["Cooperation vs. Collusion: How Essentiality Shapes Co-opetition." (PDF)](http://www.tse-fr.eu/images/doc/wp/fit/wp_tse_439.pdf) Working Papers, 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Search
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Diamond, Peter A. "[A Model of Price Adjustment](http://dx.doi.org/10.1016/0022-0531(71)90013-5)." _Journal of Economic Theory_ 3, no. 2 (1971): 156–68.
 
@@ -202,29 +158,21 @@ Genesove, David. "[Search at Wholesale Auto Auctions](https://pdfs.semanticschol
 
 Hong, Han, and Matthew Shum. "[Using Price Distributions to Estimate Search Costs](http://dx.doi.org/10.1111/j.1756-2171.2006.tb00015.x)." _RAND Journal of Economics_ 37, no. 2 (2006): 257–75.
 
-Ellison, Glenn, and Alexander Wolitzky. "[A Search Cost Model of Obfuscation](http://dx.doi.org/10.1111/j.1756-2171.2012.00180.x )." _RAND Journal of Economics_ 43, no. 3 (2012): 417–41.
+Ellison, Glenn, and Alexander Wolitzky. "[A Search Cost Model of Obfuscation](http://dx.doi.org/10.1111/j.1756-2171.2012.00180.x)." _RAND Journal of Economics_ 43, no. 3 (2012): 417–41.
 
 Wilson, Chris M. "[Ordered Search and Equilibrium Obfuscation](http://dx.doi.org/10.1016/j.ijindorg.2009.12.001)." _International Journal of Industrial Organization_ 28, no. 5 (2010): 496–506.
 
-Ellison, Glenn, and Sara Fisher Ellison. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Match Quality, Search, and the Internet Market for Used Books." (PDF)](https://economics.mit.edu/files/10351) 2013.
+Ellison, Glenn, and Sara Fisher Ellison. ["Match Quality, Search, and the Internet Market for Used Books." (PDF)](https://economics.mit.edu/files/10351) 2013.
 
 De Los Santos, Babur, Ali Hortacsu, et al. "[Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior](http://dx.doi.org/10.1257/aer.102.6.2955)." _American Economic Review_ 102, no. 6 (2012): 2955–80.
 
-Dinerstein, Michael, Liran Einav, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Consumer Price Search and Platform Design in Internet Commerce." (PDF)](http://www.stanford.edu/~jdlevin/Papers/PriceSearch.pdf) 2013.
+Dinerstein, Michael, Liran Einav, et al. ["Consumer Price Search and Platform Design in Internet Commerce." (PDF)](http://www.stanford.edu/~jdlevin/Papers/PriceSearch.pdf) 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Networks and Two-Sided Markets
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Farrell, Joseph, and Garth Saloner. "[Standardization, Compatibility, and Innovation](http://ideas.repec.org/p/mit/worpap/345.html)." _RAND Journal of Economics_ 16, no. 1 (1985): 70–83.
 
@@ -232,7 +180,7 @@ Katz, Michael L., and Carl Shapiro. "[Technology Adoption in the Presence of Net
 
 Fudenberg, Drew, and Jean Tirole. "[Pricing Under the Threat of Entry by Sole Supplier of a Network Good](http://econpapers.repec.org/paper/fthharver/1873.htm)." _Journal of Industrial Economics_ 48, no. 4 (2000): 373–90.
 
-Ellison, Glenn, and Drew Fudenberg. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Neo-Luddite's Lament: Excessive Upgrades in the Software Industry." (PDF)](http://web.mit.edu/gellison/www/neo4.pdf) _RAND Journal of Economics_ 31, no. 2 (2000): 253–72.
+Ellison, Glenn, and Drew Fudenberg. ["The Neo-Luddite's Lament: Excessive Upgrades in the Software Industry." (PDF)](http://web.mit.edu/gellison/www/neo4.pdf) _RAND Journal of Economics_ 31, no. 2 (2000): 253–72.
 
 Rochet, Jean-Charles, and Jean Tirole. "[Platform Competition in Two-Sided Markets](http://dx.doi.org/10.1162/154247603322493212)." _Journal of the European Economic Association_ 1, no. 4 (2003): 990–1029.
 
@@ -252,119 +200,79 @@ Jeziorski, Przemyslaw. "[Effects of Mergers in Two-Sided Markets: Examination of
 
 Lee, Robin S. "[Vertical Integration and Exclusivity in Platform and Two-Sided Markets](http://ideas.repec.org/a/aea/aecrev/v103y2013i7p2960-3000.html)." _American Economic Review_ 103, no. 7 (2013): 2960–3000.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Entry
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+![Buy at MIT Press](/images/mp_logo.gif) Sutton, John. "An Introductory Overview." Chapter 1 in _Sunk Costs and Market Structure: Price Competition, Advertising, and the Evolution of Concentration_. MIT Press, 1991. ISBN: 9780262193054. \[Preview with [Google Books](http://books.google.com/books?id=HfxcCO5msgwC&pg=PA3=onepage)\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193054) Sutton, John. "An Introductory Overview." Chapter 1 in _Sunk Costs and Market Structure: Price Competition, Advertising, and the Evolution of Concentration_. MIT Press, 1991. ISBN: 9780262193054. \[Preview with [Google Books](http://books.google.com/books?id=HfxcCO5msgwC&pg=PA3=onepage)\]
+![Buy at MIT Press](/images/mp_logo.gif) ———. "The Analytical Framework I: Exogenous Sunk Costs." Chapter 2 in _Sunk Costs and Market Structure: Price Competition, Advertising, and the Evolution of Concentration_. MIT Press, 1991. ISBN: 9780262193054. \[Preview with [Google Books](http://books.google.com/books?id=HfxcCO5msgwC&pg=PA27=onepage)\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262193054) ———. "The Analytical Framework I: Exogenous Sunk Costs." Chapter 2 in _Sunk Costs and Market Structure: Price Competition, Advertising, and the Evolution of Concentration_. MIT Press, 1991. ISBN: 9780262193054. \[Preview with [Google Books](http://books.google.com/books?id=HfxcCO5msgwC&pg=PA27=onepage)\]
+Jovanovic, Boyan. ["Selection and the Evolution of Industry." (PDF - 1.8MB)](http://www.andrew.cmu.edu/course/88-737/dynamic/selection.pdf) _Econometrica_ 50, no. 3 (1982): 649–70.
 
-Jovanovic, Boyan. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Selection and the Evolution of Industry." (PDF - 1.8MB)](http://www.andrew.cmu.edu/course/88-737/dynamic/selection.pdf) _Econometrica_ 50, no. 3 (1982): 649–70.
-
-Dunne, Timothy, Mark J. Roberts, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Patterns of Firm Entry and Exit in U. S. Manufacturing Industries." (PDF)](https://www.researchgate.net/publication/24048651_Patterns_of_Firm_Entry_and_Exit_in_US_Manufacturing_Industries) _RAND Journal of Economics_ 19, no. 4 (1988): 495–515.
+Dunne, Timothy, Mark J. Roberts, et al. ["Patterns of Firm Entry and Exit in U. S. Manufacturing Industries." (PDF)](https://www.researchgate.net/publication/24048651_Patterns_of_Firm_Entry_and_Exit_in_US_Manufacturing_Industries) _RAND Journal of Economics_ 19, no. 4 (1988): 495–515.
 
 Golder, Peter N., and Gerard J. Tellis. "[Pioneer Advantage: Marketing Logic or Marketing Legend?](http://dx.doi.org/10.2307/3172825)" _Journal of Marketing Research_ 30, no. 2 (1993): 158–70.
 
-Bronnenberg, Bart J., Sanjay K. Dhar, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Brand History, Geography, and the Persistence of Brand Shares." (PDF)](https://sites.duke.edu/collardwexler/files/2015/01/bronnenberg_dhar_dube.pdf) _Journal of Political Economy_ 117, no. 1 (2009): 87–115.
+Bronnenberg, Bart J., Sanjay K. Dhar, et al. ["Brand History, Geography, and the Persistence of Brand Shares." (PDF)](https://sites.duke.edu/collardwexler/files/2015/01/bronnenberg_dhar_dube.pdf) _Journal of Political Economy_ 117, no. 1 (2009): 87–115.
 
 Bronnenberg, Bart J., Jean-Pierre H. Dubé, et al. "[The Evolution of Brand Preferences: Evidence from Consumer Migration](http://dx.doi.org/10.1257/aer.102.6.2472)." _American Economic Review_ 102, no. 6 (2012): 2472–508.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Strategic Investment
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Schmalensee, Richard. "[Entry Deterrence in the Ready-to-eat Breakfast Cereal Industry](http://econpapers.repec.org/article/rjebellje/v_3a9_3ay_3a1978_3ai_3aautumn_3ap_3a305-327.htm)." _Bell Journal of Economics_ 9, no. 2 (1978): 305–27.
 
 Judd, Kenneth L. "[Credible Spatial Preemption](http://ideas.repec.org/p/nwu/cmsems/577.html)." _RAND Journal of Economics_ 16, no. 2 (1985): 153–66.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Predation and Limit Pricing
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Ordover, Janusz A., and Garth Saloner. "Predation, Monopolization and Antitrust." Chapter 9 in _Handbook of Industrial Organization._ Vol. 3. Edited by Mark Armstrong, and Robert H. Porter. North Holland, 2007. ISBN: 9780444824356. \[Preview with [Google Books](http://books.google.com/books?id=bvrn72h8dDwC&pg=PAfrontcover)\]
 
-Milgrom, Paul, and John Roberts. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Limit Pricing and Entry Under Incomplete Information: An Equilibrium Analysis." (PDF)](http://www.sfu.ca/~wainwrig/Econ400/milgromRoberts82-limitpricing.pdf) _Econometrica_ 50, no. 2 (1982): 443–60.
+Milgrom, Paul, and John Roberts. ["Limit Pricing and Entry Under Incomplete Information: An Equilibrium Analysis." (PDF)](http://www.sfu.ca/~wainwrig/Econ400/milgromRoberts82-limitpricing.pdf) _Econometrica_ 50, no. 2 (1982): 443–60.
 
 Milgrom, Paul. "[Predation, Reputation, and Entry Deterrence](http://dx.doi.org/10.1016/0022-0531(82)90031-X)." _Journal of Economic Theory_ 27, no. 2 (1982): 280–312.
 
 Ellison, Glenn, and Susan Athey. "[Dynamics of Open Source Movements](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1697473)." CESifo Working Paper Series No. 3215, 2010.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Auctions
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Krishna, Vijay. _Auction Theory_. 2nd ed. Academic Press, 2009. ISBN: 9780123745071. \[Preview with [Google Books](http://books.google.com/books?id=qW1128ktG1gC&pg=PAfrontcover)\]
 
-McAfee, R. Preston, and John McMillan. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Auctions and Bidding." (PDF - 2.7MB)](http://ftp.cramton.umd.edu/econ415/mcafee-mcmillan-auctions-and-bidding-jel-1987.pdf) _Journal of Economic Literature_ 25, no. 2 (1987): 699–738.
+McAfee, R. Preston, and John McMillan. ["Auctions and Bidding." (PDF - 2.7MB)](http://ftp.cramton.umd.edu/econ415/mcafee-mcmillan-auctions-and-bidding-jel-1987.pdf) _Journal of Economic Literature_ 25, no. 2 (1987): 699–738.
 
 Milgrom, Paul. "[Auctions and Bidding: A Primer](http://dx.doi.org/10.1257/jep.3.3.3)." _Journal of Economic Perspectives_ 3, no. 3 (1989): 3–22.
 
 Said, Maher. "[Auctions with Dynamic Populations: Efficiency and Revenue Maximization](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1296455)." _Journal of Economic Theory_ 147, no. 6 (2012): 2419–38.
 
-Gomes, Renato. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Mechanism Design in Two-Sided Markets: Auctioning Users." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.3618&rep=rep1&type=pdf) 2009.
+Gomes, Renato. ["Mechanism Design in Two-Sided Markets: Auctioning Users." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.3618&rep=rep1&type=pdf) 2009.
 
 Athey, Susan, and Jonathan Levin. "[Information and Competition in U.S. Forest Service Timber Auctions](http://www.nber.org/papers/w7185)." NBER Working Paper No. 7185, 1999.
 
 Cramton, Peter. "[Spectrum Auction Design](http://dx.doi.org/10.1007/s11151-013-9376-x)." _Review of Industrial Organization_ 42, no. 2 (2013): 161–90.
 
-Bulow, Jeremy, Jonathan Levin, et al. "[Winning Play in Spectrum Auctions](http://www.nber.org/papers/w14765)." NBER Working Paper No_._ 14765, 2009.
+Bulow, Jeremy, Jonathan Levin, et al. "[Winning Play in Spectrum Auctions](http://www.nber.org/papers/w14765)." NBER Working Paper No. 14765, 2009.
 
-Eivan, Liran, Chiara Farronato, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sales Mechanisms in Online Auctions: What Happened to Internet Auctions?" (PDF)](http://www.nber.org/papers/w19021) NBER Working Paper No. 19021, 2013.
+Eivan, Liran, Chiara Farronato, et al. ["Sales Mechanisms in Online Auctions: What Happened to Internet Auctions?" (PDF)](http://www.nber.org/papers/w19021) NBER Working Paper No. 19021, 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Bounded Rationality
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Rubinstein, Ariel. "[On Price Recognition and Computational Complexity in a Monopolistic Model](http://ideas.repec.org/a/ucp/jpolec/v101y1993i3p473-84.html)." _Journal of Political Economy_ 101, no. 3 (1993): 473–84.
 
@@ -384,7 +292,7 @@ Spiegler, Ran. "[The Market for Quacks](http://dx.doi.org/10.1111/j.1467-937X.20
 
 Sobel, Joel. "[A Model of Declining Standards](http://dx.doi.org/10.1111/1468-2354.00065)." _International Economic Review_ 41, no. 2 (2000): 295–303.
 
-Ellison, Glenn. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Evolving Standards for Academic Publishing: A q-r Theory." (PDF - 9.7MB)](http://economics.mit.edu/files/7611) _Journal of Political Economy_ 110, no. 5 (2002): 994–1034.
+Ellison, Glenn. ["Evolving Standards for Academic Publishing: A q-r Theory." (PDF - 9.7MB)](http://economics.mit.edu/files/7611) _Journal of Political Economy_ 110, no. 5 (2002): 994–1034.
 
 Baye, Michael R., and John Morgan. "[Price Dispersion in the Lab and on the Internet: Theory and Evidence](http://www.jstor.org/stable/1593702)." _RAND Journal of Economics_ 35 (2004): 449–66.
 
@@ -392,23 +300,15 @@ Eliaz, Kfir, and Ran Spiegler. "[Consideration Sets and Competitive Marketing](h
 
 Piccione, Michele, and Ran Spiegler. "[Price Competition under Limited Comparability](http://dx.doi.org/10.1093/qje/qjr053)." _Quarterly Journal of Economics_ 127, no. 1 (2012): 97–135.
 
-Borenstein, Severin. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"To What Electricity Price Do Consumers Respond? Residential Demand Elasticity Under Increasing-Block Pricing." (PDF - 1.1MB)](http://faculty.haas.berkeley.edu/borenste/download/NBER_SI_2009.pdf) 2009.
+Borenstein, Severin. ["To What Electricity Price Do Consumers Respond? Residential Demand Elasticity Under Increasing-Block Pricing." (PDF - 1.1MB)](http://faculty.haas.berkeley.edu/borenste/download/NBER_SI_2009.pdf) 2009.
 
 Armstrong, Mark, and Yongmin Chen. "[Discount Pricing](http://www.economics.ox.ac.uk/Department-of-Economics-Discussion-Paper-Series/discount-pricing)." 2012.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Advertising
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Butters, Gerard R. "[Equilibrium Distribution of Sales and Advertising Prices](https://ideas.repec.org/a/oup/restud/v44y1977i3p465-491..html)." _Review of Economic Studies_ 44, no. 3 (1977): 465-91.
 
@@ -418,7 +318,7 @@ Milgrom, Paul, and John Roberts. "[Price and Advertising Signals of Product Qual
 
 Ackerberg, Daniel A. "[Empirically Distinguishing Informative and Prestige Effects of Advertising](http://econpapers.repec.org/article/rjerandje/v_3a32_3ay_3a2001_3ai_3a2_3ap_3a316-33.htm)." _RAND Journal of Economics_ 32, no. 2 (2001): 316–33.
 
-Lauga, Dominique Olie. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Persuasive Advertising with Sophisticated but Impressionable Consumers." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.7317&rep=rep1&type=pdf) 2010.
+Lauga, Dominique Olie. ["Persuasive Advertising with Sophisticated but Impressionable Consumers." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.7317&rep=rep1&type=pdf) 2010.
 
 Lewis, Randall A., Justin M. Rao, et al. "[Here, There, and Everywhere: Correlated Online Behaviors Can Lead to Overestimates of the Effects of Advertising](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2080235)." WWW Proceedings of the 20th international conference on World Wide Web, 2011.
 
@@ -426,21 +326,13 @@ Abraham, Ittai, Susan Athey, et al. "[Peaches, Lemons, and Cookies: Designing Au
 
 Athey, Susan, and Denis Nekipelov. "[A Structural Model of Sponsored Search Advertising Auctions](http://blogs.cornell.edu/info2040/2012/11/08/a-structural-model-of-sponsored-search-advertising-auctions/)." 2011.
 
-Bergemann, Dirk, and Alessandro Bonatti. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Selling Cookies." (PDF)](http://cowles.econ.yale.edu/P/cd/d19a/d1920.pdf) Cowles Foundation Discussion Paper no. 1920, 2013.
+Bergemann, Dirk, and Alessandro Bonatti. ["Selling Cookies." (PDF)](http://cowles.econ.yale.edu/P/cd/d19a/d1920.pdf) Cowles Foundation Discussion Paper no. 1920, 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Patents and Technology Diffusion
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Bessen, James, and Eric Maskin. "[Sequential Innovation, Patents, and Imitation](http://dx.doi.org/10.1111/j.1756-2171.2009.00081.x)." _RAND Journal of Economics_ 40, no. 4 (2009): 611–35.
 
@@ -452,7 +344,7 @@ Pakes, Ariel. "[Patents as Options: Some Estimates of the Value of Holding Europ
 
 Jaffe, Adam B., Manuel Trajtenberg, et al. "[Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations](http://dx.doi.org/10.2307/2118401)." _Quarterly Journal of Economics_ 108, no. 3 (1993): 577–98.
 
-Lerner, Josh. "[Where Does State Street Lead? A First Look at Finance Patents, 1971 to 2000](http://dx.doi.org/10.1111/1540-6261.00446)." J_ournal of Finance_ 57, no. 2 (2002): 901–30.
+Lerner, Josh. "[Where Does State Street Lead? A First Look at Finance Patents, 1971 to 2000](http://dx.doi.org/10.1111/1540-6261.00446)." Journal of Finance57, no. 2 (2002): 901–30.
 
 Rogers, Everett M., and F. Floyd Shoemaker. _Communication of Innovations: A Cross-Cultural Approach_. Free Press, 1971.
 
@@ -462,9 +354,4 @@ Saloner, Garth, and Andrea Shepard. "[Adoption of Technologies with Network Effe
 
 Lerner, Joshua, and Jean Tirole. "[Efficient Patent Pools](http://dx.doi.org/10.1257/0002828041464641)." _American Economic Review_ 94, no. 3 (2004): 691–711.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
