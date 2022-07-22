@@ -5,6 +5,7 @@ file: /courses/14-271-industrial-organization-i-fall-2013/81a4224f970f2a7487e3cd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '14.271F13 Industrial Organization I: Problem Set 5'
 uid: 81a4224f-970f-2a74-87e3-cd45a417ad00
 ---
 This resource file contains information regarding problem set 5.
-

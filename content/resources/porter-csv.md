@@ -5,6 +5,7 @@ file: /courses/14-271-industrial-organization-i-fall-2013/0883751e0bc220bca3bb45
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Porter.csv.csv
 uid: 0883751e-0bc2-20bc-a3bb-4532cec19a8f
 ---
 This is a special file that contains information regarding porter.
-

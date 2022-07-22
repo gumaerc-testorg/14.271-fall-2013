@@ -5,6 +5,7 @@ file: /courses/14-271-industrial-organization-i-fall-2013/400b62a7b51f977e79ad7b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '14.271F13 Industrial Organization I: Midterm'
 uid: 400b62a7-b51f-977e-79ad-7be560739111
 ---
 This resource file contains information regarding midterm exam.
-
