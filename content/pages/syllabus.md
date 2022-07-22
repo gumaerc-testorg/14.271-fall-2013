@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, readings, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7cc7ee1b-2d4b-d38f-4627-e9faed3cd8fa
 ---
@@ -32,7 +36,7 @@ The primary text for the course is:
 
 The text provides an overview of most of the theoretical topics.
 
-For further detail, go to the [Readings]({{< baseurl >}}/pages/readings) section.
+For further detail, go to the {{% resource_link 512d868f-8838-b9fd-abcd-fe90b9226d59 "Readings" %}} section.
 
 Grading
 -------
