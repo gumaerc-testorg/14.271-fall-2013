@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding midterm exam.
 file: /courses/14-271-industrial-organization-i-fall-2013/400b62a7b51f977e79ad7be560739111_MIT14_271F13_midterm.pdf
+file_size: 242926
 file_type: application/pdf
 learning_resource_types:
 - Exams

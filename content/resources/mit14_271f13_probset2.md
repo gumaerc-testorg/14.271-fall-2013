@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding problem set 2.
 file: /courses/14-271-industrial-organization-i-fall-2013/8008aea669168513bc7082c5668a665d_MIT14_271F13_probset2.pdf
+file_size: 111290
 file_type: application/pdf
 learning_resource_types:
 - Assignments
