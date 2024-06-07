@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-271-industrial-organization-i-fall-2013/da1b2237a57fb193b90a24696f266a77_14-271_classroom-1.jpg
+file_size: 24075
 file_type: image/jpeg
 image_metadata:
   caption: ''

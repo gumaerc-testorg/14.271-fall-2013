@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding porter.
 file: /courses/14-271-industrial-organization-i-fall-2013/0883751e0bc220bca3bb4532cec19a8f_Porter.csv.csv
+file_size: 17278
 file_type: text/comma-separated-values
 learning_resource_types:
 - Assignments

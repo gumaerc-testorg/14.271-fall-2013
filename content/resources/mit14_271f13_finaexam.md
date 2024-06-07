@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding final exam.
 file: /courses/14-271-industrial-organization-i-fall-2013/e45b12133c9be35487f5df8d685724b8_MIT14_271F13_finaexam.pdf
+file_size: 139196
 file_type: application/pdf
 learning_resource_types:
 - Exams
