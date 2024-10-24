@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file that contains information regarding porter.
-file: /courses/14-271-industrial-organization-i-fall-2013/35b194a6608fa3269068a3acb7fb224a_Porter.prn
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2013/35b194a6608fa3269068a3acb7fb224a_Porter.prn
 file_size: 17608
 file_type: application/octet-stream
 learning_resource_types:

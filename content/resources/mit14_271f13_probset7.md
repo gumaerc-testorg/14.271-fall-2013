@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding problem set 7.
-file: /courses/14-271-industrial-organization-i-fall-2013/a9476034563c587d97a719d951931f26_MIT14_271F13_probset7.pdf
+file: /ol-ocw-studio-app/courses/14-271-industrial-organization-i-fall-2013/a9476034563c587d97a719d951931f26_MIT14_271F13_probset7.pdf
 file_size: 92517
 file_type: application/pdf
 learning_resource_types:
