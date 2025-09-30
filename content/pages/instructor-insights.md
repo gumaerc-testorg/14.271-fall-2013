@@ -32,7 +32,7 @@ This course provided a graduate level introduction to industrial organization. T
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Can be applied towards a [PhD in Economics](http://economics.mit.edu/graduate/ph.d.)
+- Can be applied towards a {{% resource_link "9d1bc42d-d127-442c-add7-683bddd78e86" "PhD in Economics" %}}
 
 ### Offered
 
