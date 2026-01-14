@@ -11,7 +11,7 @@ uid: 512d868f-8838-b9fd-abcd-fe90b9226d59
 ---
 The primary text for the course is:
 
-\[Tirole\] = {{% resource_link "70a3b0be-b688-421a-b65e-1c068ca15b4a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, Jean. *The Theory of Industrial Organization*. MIT Press, 1988. ISBN: 9780262200714. \[Preview with {{% resource_link "a894406e-b16b-489a-8dc6-88d5b685b38d" "Google Books" %}}\]
+\[Tirole\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200714) Tirole, Jean. *The Theory of Industrial Organization*. MIT Press, 1988. ISBN: 9780262200714. \[Preview with [Google Books](http://books.google.com/books?id=HIjsF0XONF8C&pg=PAfrontcover)\]
 
 This text is supplemented with a large number of recent journal articles that are also required reading. These are listed in the table below.
 
@@ -33,9 +33,9 @@ Monopoly Pricing and Durable Goods
 
 \[Tirole\] Chapter 1 (including supplementary section).
 
-Shapiro, Carl. "{{% resource_link "24d93649-7545-4448-9399-e017d5b45b44" "Optimal Pricing of Experience Goods" %}}." *Bell Journal of Economics* 14, no. 2 (1983): 497–507.
+Shapiro, Carl. "[Optimal Pricing of Experience Goods](http://www.jstor.org/stable/3003650)." *Bell Journal of Economics* 14, no. 2 (1983): 497–507.
 
-Chevalier, Judith A., and Austan Goolsbee. "{{% resource_link "a4cf398d-4316-492f-a111-12be19c31724" "Are Durable Goods Consumers Forward-Looking? Evidence from College Textbooks" %}}." *Quarterly Journal of Economics* 124, no. 4 (2009): 1853–84.
+Chevalier, Judith A., and Austan Goolsbee. "[Are Durable Goods Consumers Forward-Looking? Evidence from College Textbooks](http://dx.doi.org/10.1162/qjec.2009.124.4.1853)." *Quarterly Journal of Economics* 124, no. 4 (2009): 1853–84.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -51,9 +51,9 @@ Static Competition and Models of Differentiation
 
 \[Tirole\] Section 2.1, and Chapter 5.
 
-Bresnahan, Timothy F. {{% resource_link "913fd82a-ff80-46b0-b019-a171dff7802c" "\"Competition and Collusion in the American Automobile Industry: The 1955 Price War.\" (PDF)" %}} *Journal of Industrial Economics* 35, no. 4 (1987): 457–82.
+Bresnahan, Timothy F. ["Competition and Collusion in the American Automobile Industry: The 1955 Price War." (PDF)](http://pages.stern.nyu.edu/~acollard/Bresnahan1955.pdf) *Journal of Industrial Economics* 35, no. 4 (1987): 457–82.
 
-Ellison, Glenn. "{{% resource_link "1564a156-93a9-4e8d-a4d9-71a5283e72fc" "A Model of Add-on Pricing" %}}." *Quarterly Journal of Economics* 120, no. 2 (2005): 585–637.
+Ellison, Glenn. "[A Model of Add-on Pricing](http://dx.doi.org/10.1093/qje/120.2.585)." *Quarterly Journal of Economics* 120, no. 2 (2005): 585–637.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -63,13 +63,13 @@ Dynamic Competition
 
 \[Tirole\] Chapter 6.
 
-Porter, Robert H. "{{% resource_link "6adfdaea-deb6-46a6-b582-30486fc44c35" "A Study of Cartel Stability: The Joint Economic Committee, 1880–1886" %}}." *Bell Journal of Economics* 14, no. 2 (1983): 301–14.
+Porter, Robert H. "[A Study of Cartel Stability: The Joint Economic Committee, 1880–1886](http://econpapers.repec.org/article/rjebellje/v_3a14_3ay_3a1983_3ai_3aautumn_3ap_3a301-314.htm)." *Bell Journal of Economics* 14, no. 2 (1983): 301–14.
 
-Ellison, Glenn. "{{% resource_link "ed03d691-44de-4bef-a398-94f45072c596" "Theories of Cartel Stability and the Joint Executive Committee" %}}." (PDF - 1.3MB) *RAND Journal of Economics* 25, no. 1 (1994): 37–57.
+Ellison, Glenn. "[Theories of Cartel Stability and the Joint Executive Committee](https://www.jstor.org/stable/2555852)." (PDF - 1.3MB) *RAND Journal of Economics* 25, no. 1 (1994): 37–57.
 
-Maskin, Eric, and Jean Tirole. {{% resource_link "a6708dcf-e036-4345-98e9-f6420cd2d1a6" "\"A Theory of Dynamic Oligopoly II: Price Competition, Kinked Demand Curves, and Edgeworth Cycles.\" (PDF)" %}} *Econometrica* 56, no. 3 (1988): 571–99.
+Maskin, Eric, and Jean Tirole. ["A Theory of Dynamic Oligopoly II: Price Competition, Kinked Demand Curves, and Edgeworth Cycles." (PDF)](http://scholar.harvard.edu/files/maskin/files/a_theory_of_dynamic_oligopoly_ii_price_competition_kinked_demand_curves_and_edgeworth_cycles.pdf) *Econometrica* 56, no. 3 (1988): 571–99.
 
-Noel, Michael D. "{{% resource_link "c65d175e-602c-4646-abd5-64f2ab5d18a1" "Edgeworth Price Cycles: Evidence from the Toronto Retail Gasoline Market" %}}." *Journal of Industrial Economics* 55, no. 1 (2007): 69–92.
+Noel, Michael D. "[Edgeworth Price Cycles: Evidence from the Toronto Retail Gasoline Market](http://dx.doi.org/10.1111/j.1467-6451.2007.00303.x)." *Journal of Industrial Economics* 55, no. 1 (2007): 69–92.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -77,20 +77,20 @@ Noel, Michael D. "{{% resource_link "c65d175e-602c-4646-abd5-64f2ab5d18a1" "Edge
 Search
 {{< tdclose >}}{{< tdopen >}}
 
-Stahl, Dale O. "{{% resource_link "1ec795ef-b657-4df4-9695-025f1f519e28" "Oligopolistic Pricing with Heterogeneous Consumer Search" %}}." *International Journal of Industrial Organization* 14, no. 2 (1996): 243–68.
+Stahl, Dale O. "[Oligopolistic Pricing with Heterogeneous Consumer Search](http://dx.doi.org/10.1016/0167-7187(94)00474-9)." *International Journal of Industrial Organization* 14, no. 2 (1996): 243–68.
 
-Wolinsky, Asher. "{{% resource_link "a67ad49d-0082-44fb-bf0c-ff0fdfcad4bf" "Product Differentiation with Imperfect Information" %}}." *Review of Economic Studies* 51, no. 1 (1984): 53–61.
+Wolinsky, Asher. "[Product Differentiation with Imperfect Information](http://dx.doi.org/10.2307/2297704)." *Review of Economic Studies* 51, no. 1 (1984): 53–61.
 
-Sorensen, Alan T. {{% resource_link "f81559da-1633-4a01-96e2-6c0d315fc758" "\"Equilibrium Price Dispersion in Retail Markets for Prescription Drugs.\" (PDF)" %}} *Journal of Political Economy* 108, no. 4 (2000): 833–50.
+Sorensen, Alan T. ["Equilibrium Price Dispersion in Retail Markets for Prescription Drugs." (PDF)](http://www.ssc.wisc.edu/~sorensen/papers/sorensen_JPE_2000.pdf) *Journal of Political Economy* 108, no. 4 (2000): 833–50.
 
-Ellison, Glenn, and Sara Fisher Ellison. "{{% resource_link "a046a373-e7d4-4b56-8375-2872f5d52b1b" "Search, Obfuscation, and Price Elasticities on the Internet" %}}." *Econometrica* 77, no. 2 (2009): 427–52.
+Ellison, Glenn, and Sara Fisher Ellison. "[Search, Obfuscation, and Price Elasticities on the Internet](http://dx.doi.org/10.3982/ECTA5708)." *Econometrica* 77, no. 2 (2009): 427–52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 Networks and Two-Sided Markets
 {{< tdclose >}}{{< tdopen >}}
-Rochet, Jean-Charles, and Jean Tirole. "{{% resource_link "7a67c57d-593a-43d7-9556-d3a1b5e76f26" "Two-Sided Markets: A Progress Report" %}}." *RAND Journal of Economics* 37, no. 3 (2006): 645–67.
+Rochet, Jean-Charles, and Jean Tirole. "[Two-Sided Markets: A Progress Report](http://dx.doi.org/10.1111/j.1756-2171.2006.tb00036.x)." *RAND Journal of Economics* 37, no. 3 (2006): 645–67.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -99,9 +99,9 @@ Entry
 
 \[Tirole\] Sections 7.1–7.2.
 
-Bresnahan, Timothy F., and Peter C. Reiss. {{% resource_link "9903b349-c0c7-4294-ab08-25de094a7bd4" "\"Entry and Competition in Concentrated Markets.\" (PDF - 2.3MB)" %}} *Journal of Political Economy* 99, no. 5 (1991): 977–1009.
+Bresnahan, Timothy F., and Peter C. Reiss. ["Entry and Competition in Concentrated Markets." (PDF - 2.3MB)](http://pages.stern.nyu.edu/~acollard/bresnahan-reiss.pdf) *Journal of Political Economy* 99, no. 5 (1991): 977–1009.
 
-Berry, Steven T., and Joel Waldfogel. {{% resource_link "ee62403a-1ce2-4af6-a92a-69b66e7679c0" "\"Free Entry and Social Inefficiency in Radio Broadcasting.\" (PDF - 1.3MB)" %}} *RAND Journal of Economics* 30, no. 3 (1999): 397–420.
+Berry, Steven T., and Joel Waldfogel. ["Free Entry and Social Inefficiency in Radio Broadcasting." (PDF - 1.3MB)](http://www.econ.umn.edu/~holmes/class/2004f8601/papers/berry_waldfogel_rand_1999.pdf) *RAND Journal of Economics* 30, no. 3 (1999): 397–420.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -111,9 +111,9 @@ Strategic Investment
 
 \[Tirole\] Chapter 8, pp. 207–8.
 
-Chevalier, Judith A. {{% resource_link "3e7b50b9-f471-4da0-b3a7-767f545aec2f" "\"Capital Structure and Product-Market Competition: Empirical Evidence from the Supermarket Industry.\" (PDF - 2.5MB)" %}} *American Economic Review* 85, no. 3 (1995): 415–35.
+Chevalier, Judith A. ["Capital Structure and Product-Market Competition: Empirical Evidence from the Supermarket Industry." (PDF - 2.5MB)](http://stuff.mit.edu/afs/athena/course/14/14.33/www/chevalier.pdf) *American Economic Review* 85, no. 3 (1995): 415–35.
 
-Ellison, Glenn, and Sara Fisher Ellison. "{{% resource_link "d65bf15b-801c-46c0-a470-2cae060633a7" "Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration" %}}." *American Economic Journal: Microeconomics* 3, no. 1 (2011): 1–36.
+Ellison, Glenn, and Sara Fisher Ellison. "[Strategic Entry Deterrence and the Behavior of Pharmaceutical Incumbents Prior to Patent Expiration](http://dx.doi.org/10.1257/mic.3.1.1)." *American Economic Journal: Microeconomics* 3, no. 1 (2011): 1–36.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -123,9 +123,9 @@ Predation and Limit Pricing
 
 \[Tirole\] Sections 9.0–9.7.
 
-Fudenberg, Drew, and Jean Tirole. "{{% resource_link "afef1a52-165a-4aff-9446-ee2cea0e49cc" "A 'Signal-Jamming' Theory of Predation" %}}." *RAND Journal of Economics* 17, no. 3 (1986): 366–76.
+Fudenberg, Drew, and Jean Tirole. "[A 'Signal-Jamming' Theory of Predation](http://ideas.repec.org/a/rje/randje/v17y1986iautumnp366-376.html)." *RAND Journal of Economics* 17, no. 3 (1986): 366–76.
 
-Genesove, David, and Wallace P. Mullin. "Predation and its Internal Rate of Return: The Sugar Industry, 1887–1914." *RAND Journal of Economics* 37, no. 1 (2006): 47–69. \[{{% resource_link "a65d0a0e-b6db-41e8-935f-1138b76af1cb" "NBER Working Paper No. 6032, 1997" %}}.\]
+Genesove, David, and Wallace P. Mullin. "Predation and its Internal Rate of Return: The Sugar Industry, 1887–1914." *RAND Journal of Economics* 37, no. 1 (2006): 47–69. \[[NBER Working Paper No. 6032, 1997](http://www.nber.org/papers/w6032).\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -133,15 +133,15 @@ Genesove, David, and Wallace P. Mullin. "Predation and its Internal Rate of Retu
 Auctions
 {{< tdclose >}}{{< tdopen >}}
 
-Klemperer, Paul. "{{% resource_link "8fa16cb3-7f4e-44f6-b7b9-dbf6d8742408" "Auction Theory: A Guide to the Literature" %}}." *Journal of Economic Surveys* 13, no. 3 (1999): 227–86.
+Klemperer, Paul. "[Auction Theory: A Guide to the Literature](http://ideas.repec.org/p/wpa/wuwpmi/9903002.html)." *Journal of Economic Surveys* 13, no. 3 (1999): 227–86.
 
-Hendricks, Kenneth, and Robert H. Porter. "{{% resource_link "4da73978-258a-4ab8-bd97-27815358f997" "An Empirical Study of an Auction with Asymmetric Information" %}}." *American Economic Review* 78, no. 5 (1988): 865–83.
+Hendricks, Kenneth, and Robert H. Porter. "[An Empirical Study of an Auction with Asymmetric Information](http://www.jstor.org/stable/1807154)." *American Economic Review* 78, no. 5 (1988): 865–83.
 
-Kagel, John H., Ronald M. Harstad, et al. "{{% resource_link "a4c19e7d-73b2-4a65-9d4c-b5e5d99ecb86" "Information Impact and Allocation Rules in Auctions with Affiliated Private Values: A Laboratory Study" %}}." *Econometrica* 55, no. 6 (1987): 1275–304.
+Kagel, John H., Ronald M. Harstad, et al. "[Information Impact and Allocation Rules in Auctions with Affiliated Private Values: A Laboratory Study](http://ideas.repec.org/a/ecm/emetrp/v55y1987i6p1275-1304.html)." *Econometrica* 55, no. 6 (1987): 1275–304.
 
-Lucking-Reiley, David. "{{% resource_link "37464faf-65c6-4489-8774-3532da0060d2" "Using Field Experiments to Test Equivalence Between Auction Formats: Magic on the Internet" %}}." *American Economic Review* 89, no. 5 (1999): 1063–80.
+Lucking-Reiley, David. "[Using Field Experiments to Test Equivalence Between Auction Formats: Magic on the Internet](http://dx.doi.org/10.1257/aer.89.5.1063)." *American Economic Review* 89, no. 5 (1999): 1063–80.
 
-Einav, Liran, Theresa Kuchler, et al. "{{% resource_link "130152c6-7800-4a57-b47c-529bfee6e339" "Learning from Seller Experiments in Online Markets" %}}." NBER Working Paper No. 17385, 2011.
+Einav, Liran, Theresa Kuchler, et al. "[Learning from Seller Experiments in Online Markets](http://www.nber.org/papers/w17385)." NBER Working Paper No. 17385, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -149,13 +149,13 @@ Einav, Liran, Theresa Kuchler, et al. "{{% resource_link "130152c6-7800-4a57-b47
 Bounded Rationality
 {{< tdclose >}}{{< tdopen >}}
 
-Ellison, Glenn. "Bounded Rationality in Industrial Organization." Chapter 5 in *Advances in Economics and Econometrics: Theory and Applications, Ninth World Congress*. Vol. 2. Edited by Richard Blundell, Whitney K. Newey, and Torsten Persson. Cambridge University Press, 2006. ISBN: 9780521692090. \[Preview With {{% resource_link "b90302b8-970a-4fc4-87ac-eb4cd87b4d65" "Google Books" %}}\]
+Ellison, Glenn. "Bounded Rationality in Industrial Organization." Chapter 5 in *Advances in Economics and Econometrics: Theory and Applications, Ninth World Congress*. Vol. 2. Edited by Richard Blundell, Whitney K. Newey, and Torsten Persson. Cambridge University Press, 2006. ISBN: 9780521692090. \[Preview With [Google Books](http://books.google.com/books?id=pPW40vYwgyoC&pg=PA142=onepage)\]
 
-DellaVigna, Stefano, and Ulrike Malmendier. "{{% resource_link "674bb9a0-23a1-4212-b7e9-a5ed2358b6e2" "Contract Design and Self-Control: Theory and Evidence" %}}." *Quarterly Journal of Economics* 119, no. 2 (2004): 353–402.
+DellaVigna, Stefano, and Ulrike Malmendier. "[Contract Design and Self-Control: Theory and Evidence](http://dx.doi.org/10.1162/0033553041382111)." *Quarterly Journal of Economics* 119, no. 2 (2004): 353–402.
 
-Heidhues, Paul, and Botond Kőszegi. "{{% resource_link "c28ac6bd-d21a-4bbf-95de-c3c02e8320b7" "Competition and Price Variation when Consumers are Loss Averse" %}}." *American Economic Review* 98, no. 4 (2008): 1245–68.
+Heidhues, Paul, and Botond Kőszegi. "[Competition and Price Variation when Consumers are Loss Averse](http://dx.doi.org/10.1257/aer.98.4.1245)." *American Economic Review* 98, no. 4 (2008): 1245–68.
 
-Grubb, Michael D. "{{% resource_link "3af21ef4-d2f5-4522-bde7-91eac523ef08" "Selling to Overconfident Consumers" %}}." *American Economic Review* 99, no. 5 (2009): 1770–807.
+Grubb, Michael D. "[Selling to Overconfident Consumers](http://dx.doi.org/10.1257/aer.99.5.1770)." *American Economic Review* 99, no. 5 (2009): 1770–807.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -165,17 +165,17 @@ Advertising
 
 \[Tirole\] Sections 2.2–2.4, and 7.3.
 
-Milyo, Jeffrey, and Joel Waldfogel. "{{% resource_link "c7272a58-d95d-44ad-842b-195d7ad5b20d" "The Effect of Price Advertising on Prices: Evidence in the Wake of 44 Liquormart" %}}." *American Economic Review* 89, no. 5 (1999): 1081–96.
+Milyo, Jeffrey, and Joel Waldfogel. "[The Effect of Price Advertising on Prices: Evidence in the Wake of 44 Liquormart](http://dx.doi.org/10.1257/aer.89.5.1081)." *American Economic Review* 89, no. 5 (1999): 1081–96.
 
-Shapiro, Jesse M. "{{% resource_link "3a172e4c-19de-44a7-bc55-3ec117cb19e0" "A 'Memory-Jamming' Theory of Advertising" %}}." University of Chicago; National Bureau of Economic Research (NBER), 2006.
+Shapiro, Jesse M. "[A 'Memory-Jamming' Theory of Advertising](http://dx.doi.org/10.2139/ssrn.903474)." University of Chicago; National Bureau of Economic Research (NBER), 2006.
 
-Edelman, Benjamin, Michael Ostrovsky, et al. "{{% resource_link "ff2f22cc-c4cc-499b-a12a-e1d1144ce260" "Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords" %}}." *American Economic Review* 97, no. 1 (2007): 242–59.
+Edelman, Benjamin, Michael Ostrovsky, et al. "[Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords](http://dx.doi.org/10.1257/aer.97.1.242)." *American Economic Review* 97, no. 1 (2007): 242–59.
 
-Athey, Susan, and Glenn Ellison. "{{% resource_link "c3b66ab6-311e-4c6a-bd0b-17c5dfdf686a" "Position Auctions with Consumer Search" %}}." *Quarterly Journal of Economics* 126, no. 3 (2011): 1213–70.
+Athey, Susan, and Glenn Ellison. "[Position Auctions with Consumer Search](http://dx.doi.org/10.1093/qje/qjr028)." *Quarterly Journal of Economics* 126, no. 3 (2011): 1213–70.
 
-Rayo, Luis, and Ilya Segal. "{{% resource_link "9775d72c-e852-4b35-9848-f5b428b21c5c" "Optimal Information Disclosure" %}}." *Journal of Political Economy* 118, no. 5 (2010): 949–87.
+Rayo, Luis, and Ilya Segal. "[Optimal Information Disclosure](http://www.jstor.org/stable/10.1086/657922)." *Journal of Political Economy* 118, no. 5 (2010): 949–87.
 
-Lewis, Randall A., and David H. Reiley. "{{% resource_link "b08439a9-aa32-4d51-827c-1191e7892392" "Does Retail Advertising Work? Measuring the Effects of Advertising on Sales via a Controlled Experiment on Yahoo!" %}}" 2008.
+Lewis, Randall A., and David H. Reiley. "[Does Retail Advertising Work? Measuring the Effects of Advertising on Sales via a Controlled Experiment on Yahoo!](http://dx.doi.org/10.2139/ssrn.1865943)" 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -185,8 +185,8 @@ Patents and Technology Diffusion
 
 \[Tirole\] Sections 10.1–10.5, and 8.1–8.3.
 
-Kremer, Michael. "{{% resource_link "71f78e12-2ef7-4461-8c83-487fe538cb12" "Patent Buyouts: A Mechanism for Encouraging Innovation" %}}." *Quarterly Journal of Economics* 113, no. 4 (1998): 1137–67.
+Kremer, Michael. "[Patent Buyouts: A Mechanism for Encouraging Innovation](http://dx.doi.org/10.1162/003355398555865)." *Quarterly Journal of Economics* 113, no. 4 (1998): 1137–67.
 
-Ellison, Glenn, and Drew Fudenberg. "{{% resource_link "d39e780e-1281-4faf-9070-1bc645aa1175" "Rules of Thumb for Social Learning" %}}." *Journal of Political Economy* 101, no. 4 (1993): 612–43.
+Ellison, Glenn, and Drew Fudenberg. "[Rules of Thumb for Social Learning](http://dx.doi.org/10.1086/261890)." *Journal of Political Economy* 101, no. 4 (1993): 612–43.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
